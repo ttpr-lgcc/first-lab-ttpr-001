@@ -1,0 +1,2 @@
+# The steps that felt the easiest was to fork and clone.
+# We fork instead of pushing directly to the instructors repo because the fork serves as a private sandbox for making changes without needing write access or affecting the original project.
